@@ -1,7 +1,7 @@
 import torch
 
 #image
-IMG_SIZE = 64
+IMG_SIZE = 128
 ANIME_PATH = "/anime/"
 HUMAN_PATH = "/human/"
 
